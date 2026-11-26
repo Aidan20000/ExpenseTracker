@@ -1,0 +1,19 @@
+{
+  "name": "expense-tracker",
+  "version": "1.0.0",
+  "description": "An expense tracker to practice good programming principles",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-Aidan20000:Aidan20000/ExpenseTracker.git"
+  },
+  "license": "ISC",
+  "author": "Aidan Johnson",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
